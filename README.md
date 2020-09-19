@@ -1,5 +1,7 @@
 # RPI mit Raspbian installieren und anschließend vorbereiten:
 
+Die Grundinstallation wird hier bereits sehr ausführlich beschrieben: https://www.raspberrypi.org/documentation/installation/installing-images/
+
     apt install wget build-essential subversion git python3 python3-pip libopenjp2-7
 
 # Asterisk als Source-Package herunterladen
